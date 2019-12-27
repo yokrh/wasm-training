@@ -29,7 +29,7 @@ emrun --no_browser --port 8080 .
 ```
 
 
-## Call a C functoin from js
+## Call a C function from js
 
 ```sh
 touch index.html
